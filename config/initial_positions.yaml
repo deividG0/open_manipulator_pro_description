@@ -1,22 +1,6 @@
 # Default initial positions for open_manipulator_pro's ros2_control fake system
 
 initial_positions:
-  # OMP inside workspace position
-  # joint1: 0.0
-  # joint2: -0.882865
-  # joint3: 0.382024
-  # joint4: 0.0
-  # joint5: 0.500841
-  # joint6: 0.0
-
-  # OMP in floor grasping position
-  # joint1: 0.0
-  # joint2: 0.2351
-  # joint3: -0.1743
-  # joint4: 0.0
-  # joint5: 1.5102
-  # joint6: 0.0
-
   # OMP in floor grasping position real
   joint1: 0.0
   joint2: 0.0
@@ -24,29 +8,7 @@ initial_positions:
   joint4: 1.57
   joint5: 0.78
   joint6: -0.97
-
-  # OMP sitting position
-  # joint1: 0.0
-  # joint2: -1.42
-  # joint3: 0.5
-  # joint4: 0.0
-  # joint5: 0.91
-  # joint6: 0.0
-
-  # OMP basic position
-  # joint1: 0.0
-  # joint2: 0.0
-  # joint3: 0.0
-  # joint4: 0.0
-  # joint5: 0.0
-  # joint6: 0.0
-  # robotiq_85_left_knuckle_joint: 0.0
   base_link_gripper: 0.0
-  # rh_l1: 0.0
-  # rh_l2: 0.0
-  # rh_r1: 0.0
-  # rh_r2: 0.0
-  # rh_p12_rn: 0.0
   gripper: 0.0
   gripper_sub: 0.32
 
